@@ -1,2 +1,2 @@
-# developer-list
-This application is searching for a developer after user input prompt. And gives details about the developer that you seached before.
+# user-list
+This application is searching for a user after user input prompt. And gives details about user that you seached before.
